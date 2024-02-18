@@ -1,2 +1,1 @@
-NODE SETUP
-Use Node 12.4
+use Node 12.4
